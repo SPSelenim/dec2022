@@ -1,0 +1,12 @@
+package com.stc.mvn.dec2022;
+
+import org.testng.annotations.Test;
+
+public class test21 {
+
+	@Test
+public void test1()
+{
+	System.out.println("First TestNg");
+}
+}
